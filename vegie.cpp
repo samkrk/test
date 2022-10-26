@@ -30,5 +30,6 @@ void vegie::set_favourite_food(string f){
 }
 
 string vegie::get_name(){
+    cout << "Safe: ";
     return name;
 }
